@@ -1,6 +1,12 @@
 # Basic-MPEG-Implementation
 Basic MPEG Implementation
 
+# Build
+- Compile "MPEG_part1.pde" in the **MPEG_part1** or "MPEG_part2.pde" **MPEG_part2**
+
+- - Compile with [Processing](https://processing.org).
+
+# Screenshots with explanations
 
 1- In the part 1 we focus on finding the similar blocks in the 2 nd image using MSE and inserting them in the original image.
 <img src = "MPEG_part1\Screenshot_1.png" title = part1 >
