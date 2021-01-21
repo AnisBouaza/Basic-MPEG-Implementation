@@ -4,7 +4,7 @@ Basic MPEG Implementation
 # Build
 - Compile "MPEG_part1.pde" in the **MPEG_part1** or "MPEG_part2.pde" **MPEG_part2**
 
-- - Compile with [Processing](https://processing.org).
+- Compile with [Processing](https://processing.org).
 
 # Screenshots with explanations
 
