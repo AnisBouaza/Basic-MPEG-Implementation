@@ -16,3 +16,9 @@ There is the image 1 (on the left) and image 2 (on the right)
 
 2- In the part 2 we re build the image by using the similar blocks found in the second image summed up with the residue.
 <img src = "MPEG_part2\Screenshot_2.png" title = part2 >
+
+**Note:** if you want to change the images using the code just change the two lines below by specifying your images path.
+```processing
+img1 = loadImage("image072.png");
+img2 = loadImage("image092.png");
+```
