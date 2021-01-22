@@ -19,6 +19,6 @@ There is the image 1 (on the left) and image 2 (on the right)
 
 **Note:** if you want to change the images using the code just change the two lines below by specifying your images path.
 ```processing
-26 img1 = loadImage("image072.png");
-28 img2 = loadImage("image092.png");
+line26: img1 = loadImage("image072.png");
+line28: img2 = loadImage("image092.png");
 ```
