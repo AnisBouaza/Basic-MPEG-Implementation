@@ -9,7 +9,7 @@ Basic MPEG Implementation
 # Screenshots with explanations
 
 There is the image 1 (on the left) and image 2 (on the right)
-<img src = "MPEG_part1\image.png" title = part1 >
+<img src = "MPEG_part1\image.jpg" title = part1 >
 
 1- In the part 1 we focus on finding the similar blocks in the 2 nd image using MSE and inserting them in the original image.
 <img src = "MPEG_part1\Screenshot_1.png" title = part1 >
